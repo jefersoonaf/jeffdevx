@@ -4,13 +4,13 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jeferson-alves-ferreira-58663914a/" target="_blank">
-<img align="center" alt="jeferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="jeferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/jeff_ferreira98/" target="_blank">
-<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/jefersondev98/" target="_blank">
-<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
