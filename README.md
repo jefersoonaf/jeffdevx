@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersondev98)](https://github.com/jefersondev98/github-readme-stats)
 
 <!--
 **jefersondev98/jefersondev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
