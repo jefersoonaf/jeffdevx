@@ -25,7 +25,7 @@
 
 
 ## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://image.flaticon.com/icons/png/512/919/919843.png" alt="delphi" width="40" height="40" style="max-width:100%;"></img>
 
 
 <!--
