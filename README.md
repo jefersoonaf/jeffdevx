@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersondev98&show_icons=true&theme=radical)
-
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jeferson-alves-ferreira-58663914a/" target="_blank">
 <img align="center" alt="jeferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
