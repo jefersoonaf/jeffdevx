@@ -8,7 +8,7 @@
 <img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/jefersondev98/" target="_blank">
-<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
+<img align="center" alt="jeferson-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
