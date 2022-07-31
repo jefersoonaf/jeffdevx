@@ -5,7 +5,7 @@
 <img align="center" alt="jeferson-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/jeff_ferreira98/" target="_blank">
-<img align="center" alt="jeferson-instagram" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" style="max-width:100%;">
+<img align="center" alt="jeferson-instagram" height="45" width="55" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/jefersondev98/" target="_blank">
 <img align="center" alt="jeferson-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
