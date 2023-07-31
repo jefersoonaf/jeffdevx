@@ -6,7 +6,6 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 - ## Languages
-    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
     ![Delphi Badge](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=fff&style=flat)
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
@@ -70,6 +69,5 @@
 \* Skills in study and improvement.
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeffdevx&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
