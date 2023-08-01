@@ -1,4 +1,6 @@
+<!---
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+--->
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Jeferson Ferreira<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> [![LinkedIn](https://img.shields.io/badge/Jeferson%20Ferreira-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffdevx) [![Instagram](https://img.shields.io/badge/Jeferson%20Ferreira-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeffdevx) [![Twitter Badge](https://img.shields.io/badge/Jeferson%20Ferreira-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/jeffdevx) [![Telegram Badge](https://img.shields.io/badge/Jeferson%20Ferreira-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/jeffdevx)</b>
 
 ⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
